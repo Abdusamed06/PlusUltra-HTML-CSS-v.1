@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    background-color: #eee;
+    margin: auto;
+}
+
+.subheading {
+    font-size: 1rem;
+    color: #DABFDE;
+}
+
+h1 {
+    color: #000;
+}
+
+h3 {
+    color: #777;
+    text-align: left;
+    margin-left: 250px;
+    margin-bottom: 5px;
+}
+
+.about {
+    color: #aaa;
+    text-align: left;
+    margin-left: 250px;
+    margin-top: 0px;
+    box-sizing: border-box;
+    color: rgb(51, 51, 51);
+    display: block;
+    font-family: sans-serif;
+    font-size: 16px;
+    height: 57px;
+    line-height: 24px;
+    padding-bottom: 8px;
+    padding-left: 40px;
+    padding-right: 0px;
+    padding-top: 4px;
+    position: static;
+    touch-action: manipulation;
+    width: 283.328125px;
+}
+
+h1 {
+    margin-top: 10px;
+}
+
+.about-fame {
+    text-align: left;
+    margin-left: 450px;
+    color: #aaa;
+}
+
+.about-text {
+    text-align: left;
+    margin-left: 450px;
+
+}
